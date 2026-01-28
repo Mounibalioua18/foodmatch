@@ -1,0 +1,5 @@
+{
+  "name": "FoodMatch - Tinder for Foodies",
+  "description": "A swipable food discovery application where users can discover new dishes, save matches, and filter by dietary preferences and cuisine types with smooth Tinder-style animations.",
+  "requestFramePermissions": []
+}
